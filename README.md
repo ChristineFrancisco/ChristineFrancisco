@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ChristineFrancisco
-- 🌱 I’m currently learning full stack development
-- 💞️ I’m looking to collaborate on anything!
-- 📫 How to reach me: email me at christine.a.francisco@gmai.com
+- 👋 Hi, I’m Christine Francisco
+- I am a full stack web developer! I'm currently looking for freelance work.
+- How to reach me: email me at christine.a.francisco@gmail.com
 
 <!---
 ChristineFrancisco/ChristineFrancisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
