@@ -1,4 +1,10 @@
-- 👋 Hi, I’m Christine Francisco
+
+<div align="center"><img src="https://i.ibb.co/JvMNfPk/gnome-gif.gif" alt="Welcome to my Github!" align="center"></div>
+
+<h1 align="center">:wave:  Hi! I'm Christine, welcome to my GitHub.  :open_file_folder:</h1>
+<h2 align="center">I'm a Toronto based software engineer coding full-stack Javascript applications.</h3>
+
+
 - I am a full stack web developer! I'm currently looking for freelance work.
 - You can reach me at christine.a.francisco@gmail.com
 
