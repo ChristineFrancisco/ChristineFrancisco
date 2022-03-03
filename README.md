@@ -2,9 +2,9 @@ Hi! I'm Christine, welcome to my GitHub! ✨
 
 I'm a Toronto-based software developer coding full-stack Javascript applications.
 
-I am a full-stack web developer! I'm currently looking for freelance work.
+You can reach me at christine.a.francisco@gmail.com. 
 
-You can reach me at christine.a.francisco@gmail.com
+I'm currently accepting freelance clients, interesting project opportunities, and cute dog photos.
 
 <!---
 ChristineFrancisco/ChristineFrancisco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
