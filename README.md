@@ -1,7 +1,6 @@
-<h1 align="center">:wave:  Hi! I'm Christine, welcome to my GitHub.  :open_file_folder:</h1>
-<h3 align="center">I'm a Toronto-based software engineer coding full-stack Javascript applications.</h3>
-
-
+- Hi! I'm Christine, welcome to my GitHub!
+- I'm a Toronto-based software engineer coding full-stack Javascript applications.
+- 
 - I am a full-stack web developer! I'm currently looking for freelance work.
 - You can reach me at christine.a.francisco@gmail.com
 
