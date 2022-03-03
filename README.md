@@ -1,6 +1,6 @@
 Hi! I'm Christine, welcome to my GitHub!
 
-I'm a Toronto-based software engineer coding full-stack Javascript applications.
+I'm a Toronto-based software developer coding full-stack Javascript applications.
 
 I am a full-stack web developer! I'm currently looking for freelance work.
 
