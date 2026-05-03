@@ -1,4 +1,4 @@
-<h1 align="center">Hi! I'm Christine, welcome to my GitHub! ✨</h1>
+<h1 align="center">Hi! I'm Christine, welcome to my GitHub! :)</h1>
 
 I'm a Toronto-based software developer. </br>
 I have a passion for creating solutions using code. </br>
